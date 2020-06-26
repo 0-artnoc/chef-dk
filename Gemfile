@@ -102,7 +102,7 @@ group(:omnibus_package) do
   gem "dco"
   gem "knife-spork"
   gem "mixlib-install"
-  gem "nokogiri", ">= 1.10.9"
+  gem "nokogiri", "= 1.10.8"
   gem "pry-byebug"
   gem "pry-remote"
   gem "pry-stack_explorer"
